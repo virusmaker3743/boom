@@ -1,2 +1,1 @@
-# boom
-download at your risk
+start virus.bat
